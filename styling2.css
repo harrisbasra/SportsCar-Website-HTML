@@ -1,0 +1,191 @@
+*{ @import url('https://fonts.googleapis.com/css2?family=Comforter&family=Dancing+Script:wght@400;500;600;700&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,700;0,900;1,600&family=Oswald:wght@200;300;400;500;600;700&family=Poppins:ital,wght@0,100;0,200;0,700;0,900;1,100;1,400;1,900&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;1,500;1,600;1,700;1,900&display=swap');
+    font-family: 'Comforter', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Source Code Pro', monospace;   
+    text-transform: uppercase;
+}
+body{
+     margin: 0px;
+     padding: 0px;
+     
+    
+}
+a:visited{
+    color: peachpuff;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(255, 255, 255);
+    border: 2px rgb(187, 119, 119) solid;
+}
+a:active{
+    color: blue;
+}
+a:link{
+    color:peachpuff;
+    text-decoration: none;
+}
+.cities3:before {
+    content: '.     ✓ ';
+  }
+.koko:before {
+    content: '.     ✓ ';
+  }
+.kiki:before {
+    content: '.     ✓ ';
+}
+header{
+    height: 100vh;
+    background: url('./bout.jpg');
+    background: linear-gradient(rgba(12, 11, 11, 0.5), rgba(0, 0, 0, 0.5), url('./bout.jpg'));
+margin: 0px;
+padding: 0px;
+
+}
+.about{
+    text-transform: uppercase;
+    margin-top: 0px;
+    margin-bottom: 7px;
+    padding-top: 0px;
+    padding-bottom: 15px;
+    border-bottom: solid seagreen 10px;
+    color: white;
+    border-top: solid seagreen 10px;
+    font-size: 53px;
+    text-align: center;
+    padding-top: 3.5vh;
+    letter-spacing: 8px;
+       
+}
+.moliv{
+color: white;
+font-size: 30px;
+margin-left: 30px;
+margin-top: 10vh;
+margin-bottom: 0px;
+}
+.khekhe{
+    list-style: none;
+    float: left;
+    margin-left: 10vw;
+    padding: 10px;
+ 
+    margin-top: 0vh;
+}  
+.koko{
+    color: peachpuff;
+    font-size: 25px;
+
+}
+.nibatani{
+    color: white;
+    font-size: 30px;
+    padding-top: 0px;
+    margin-top: 0px;
+
+}
+.khokho{
+   
+    margin-left: 12px;
+    list-style: none; 
+    float: left;
+}
+.kiki{
+    color: peachpuff;
+    font-size: 25px;
+    margin-left: 12px;
+}
+.foot{
+    height: 35vh;
+    background: rgb(0, 0, 0);
+   }
+i{
+   height: 10px;
+   width: 10px;
+}
+.socioicons{
+   display: inline-block;
+    
+}
+.jinkxx{
+   display: inline-block;
+    color: white;
+
+}
+.fa {
+   padding: 20px;
+   font-size: 30px;
+   width: 50px;
+   text-align: center;
+   text-decoration: none;
+ }
+.fa:hover {
+   opacity: 0.7;
+}
+.fa-facebook {
+   background: #3B5998;
+   color: white;
+   border: 5px rgb(178, 218, 218) solid;
+}
+.fa-twitter {
+   background: #55ACEE;
+   border: 5px rgb(157, 194, 194) solid;
+   color: white;
+}
+.fa-instagram {
+   background: #f33232;
+   border: 5px rgb(131, 204, 204) solid;
+   color: white;
+}
+.fa-youtube {
+   background: #940707;
+   border: 5px rgb(131, 197, 197) solid;
+   color: white;
+}
+.fa-google {
+   background: #0a4705;
+   border: 5px rgb(122, 189, 189) solid;
+   color: white;
+}
+.faacc{
+   padding-left: 30vw;
+   padding-top: 2vh;
+}
+.spanners{
+padding: 5px;
+}
+.lastcheck{
+    color: white;
+    margin-left: 36vw;
+    letter-spacing: 5px;
+    border-top: white 10px;
+    font-size: 22px;
+    margin-top: 2vh;
+}
+.cities1{
+    float: right;
+    margin-right: 8vw;
+    margin-top: 3vh;
+    color: white;
+    font-size: 30px;
+}
+.cities2{
+    list-style: none; 
+    float: right;
+}
+.cities3{
+    color: peachpuff;
+    font-size: 25px;
+    margin-top: 0vh;
+   margin-right: 8vw;
+}
+.homesz{
+    text-transform: uppercase;
+    border: white 5px solid;
+    margin-left: 45vw;
+    margin-top: 2px;
+    font-size: 20px;
+}

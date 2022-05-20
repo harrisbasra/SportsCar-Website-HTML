@@ -1,0 +1,182 @@
+*{ @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+    font-family: 'Merriweather', serif;
+   margin: 0px;
+   padding: 0px;
+}
+header{
+    background: url('./cus.jpg');
+    background: linear-gradient(rgba(24, 23, 23, 0.6), rgba(22, 22, 22, 0.6)), url('./cus.jpg');
+    height: 80vh;
+    background-repeat: none;
+      
+   
+}
+a:visited{
+   color: peachpuff;
+   text-decoration: none;
+}
+a:hover{
+   color: rgb(255, 255, 255);
+   border: 2px rgb(187, 119, 119) solid;
+}
+a:active{
+   color: blue;
+}
+a:link{
+   color:peachpuff;
+   text-decoration: none;
+}
+.kic{
+width: 65vw;
+margin-left: 20vw;   
+font-size: 50px;
+padding-top: 8vh;
+color: white;
+text-decoration: underline 10px gold;
+}
+.feel{
+color: turquoise;
+text-transform: uppercase;
+color: thistle;
+letter-spacing: 8px;
+margin-top: 10vw;
+text-align: center;
+}
+.wearehere{
+    color: turquoise;
+    text-transform: uppercase;
+    color: thistle;
+    letter-spacing: 8px;
+    margin-top: 2vw;
+    text-align: center;
+    
+
+}
+article{
+border: 7px solid teal;
+background:cornsilk;
+height: 90vh;
+font-size: 20px;
+}
+
+
+.foot{
+   height: 35vh;
+   background: rgb(0, 0, 0);
+  }
+i{
+   height: 10px;
+   width: 10px;
+}
+.socioicons{
+   display: inline-block;
+    
+}
+.jinkxx{
+   display: inline-block;
+    color: white;
+
+}
+.fa {
+   padding: 20px;
+   font-size: 30px;
+   width: 50px;
+   text-align: center;
+   text-decoration: none;
+ }
+.fa:hover {
+   opacity: 0.7;
+}
+.fa-facebook {
+   background: #3B5998;
+   color: white;
+   border: 5px rgb(178, 218, 218) solid;
+}
+.fa-twitter {
+   background: #55ACEE;
+   border: 5px rgb(157, 194, 194) solid;
+   color: white;
+}
+.fa-instagram {
+   background: #f33232;
+   border: 5px rgb(131, 204, 204) solid;
+   color: white;
+}
+.fa-youtube {
+   background: #940707;
+   border: 5px rgb(131, 197, 197) solid;
+   color: white;
+}
+.fa-google {
+   background: #0a4705;
+   border: 5px rgb(122, 189, 189) solid;
+   color: white;
+}
+.faacc{
+   padding-left: 30vw;
+   padding-top: 2vh;
+   
+}
+.spanners{
+padding: 5px;
+
+}
+.lastcheck{
+    color: white;
+    text-align: center;
+    letter-spacing: 5px;
+    border-top: white 10px;
+    font-size: 22px;
+    margin-top: 5vh;
+}
+.homesz{
+   text-transform: uppercase;
+   border: white 5px solid;
+   margin-left: 45vw;
+   margin-top: 2px;
+   font-size: 20px;
+}
+.phone{
+   float: left;
+   margin-top: 8vh;
+   margin-left: 5px;
+}
+.connect{
+   margin-top: 2vh;
+    font-size: 35px;
+    margin-left: 50vw;
+    text-transform: uppercase;
+    text-decoration: underline rgba(150, 72, 72, 0.6) dotted;
+}
+form{
+    text-transform: uppercase;
+    float: right;
+    margin-right: 20vw;
+}
+.labell{
+    font-size: 25px;
+}
+.inputt{
+background: rgb(216, 100, 100);
+color: white;
+font-size: 25px;
+border-radius: 50px;
+border: 5px black double;
+padding-right: 10vw;
+}
+.oikj{
+   font-size: 25px;
+   border: 5px black double;
+   border-radius: 20px;
+   background: rgb(211, 102, 102);
+   color: white;
+}
+.sbmt{
+   color: rgb(0, 0, 0);
+   border: 3px red solid;
+   font-size: 25px;
+   padding: 7px;
+   background: rgb(216, 100, 100); 
+   margin-left: 1vw;
+   margin-top: 2vh;
+}
